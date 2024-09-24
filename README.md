@@ -1,4 +1,4 @@
-# CGVI Introduction to Python 2022
+# CGVI Introduction to Python 2024
 
 ## Quick Start
 
