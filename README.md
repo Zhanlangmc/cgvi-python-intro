@@ -127,4 +127,4 @@ For Mac OS users, the CPU-only version is the only one available pre-compiled. I
 
 ## Contact
 
-If you run into issues with these notebooks, or find an error in the code, please let me know. You can file an issue on this github repository (go to the Issues tab at the top of the page, and then click the "New Issue" button) to highlight any specific issue with the code. This will be publically viewable. If you would prefer to contact me directly, please do so at `david.walton.13 at ucl.ac.uk`
+If you run into issues with these notebooks, or find an error in the code, please let me know. You can file an issue on this github repository (go to the Issues tab at the top of the page, and then click the "New Issue" button) to highlight any specific issue with the code. This will be publically viewable. If you would prefer to contact me directly, please do so at `d.giunchi at ucl.ac.uk`
